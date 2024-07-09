@@ -46,10 +46,3 @@ This project focuses on the forecasting of time series data using various machin
 ## Data Understanding
 - **Statistical Analysis**: Key statistics of the dataset are analyzed.
 - **Visualization**: Data is visualized to understand its distribution, seasonality, trend, and noise components.
-
-## Usage
-To run this project, clone the repository and follow the steps in the notebook.
-
-```bash
-git clone https://github.com/shubham8all/Human-Activity-Recognition-Using-Smartphone-Data.git
-cd Human-Activity-Recognition-Using-Smartphone-Data
